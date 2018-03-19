@@ -1,0 +1,9 @@
+Package: com.neinzedd9.batterycolorx
+Name: BatteryColorX
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Change the color of the iPhone X's status bar battery icon!
+Maintainer: NeinZedd9
+Author: NeinZedd9
+Section: Tweaks
